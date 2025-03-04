@@ -1,0 +1,14 @@
+[2024-11-25 17:53:46] Acci�n: Imagen '167.png' guardada | Especialidad: snowflake_pro
+[2024-11-25 17:08:28] Acción: Imagen '167.png' eliminada | Especialidad: snowflake_pro
+[2024-10-29 17:47:11] Acción: Reinicio del contenedor Docker
+[2024-10-29 14:37:49] Acción: Creación de Excel para descarga | Especialidad: snowflake_pro | Usuario: CARLOS.ALEMANY@CIVICA-SOFT.COM | Número: 7744065401
+[2024-10-28 14:05:30] Acción: Imagen '879.png' guardada | Especialidad: snowflake_pro
+[2024-10-28 14:05:27] Acción: Imagen '745.png' guardada | Especialidad: snowflake_pro
+[2024-10-28 14:05:22] Acción: Imagen '691.png' guardada | Especialidad: snowflake_pro
+[2024-10-28 14:05:17] Acción: Imagen '270.png' guardada | Especialidad: snowflake_pro
+[2024-10-28 14:05:12] Acción: Imagen '185.png' guardada | Especialidad: snowflake_pro
+[2024-10-28 08:51:40] Acción: Creación de Excel para descarga | Especialidad: google | Usuario: IRENE.LOPEZ | Número: 3025612588
+[2024-10-27 22:44:35] Acción: Creación de Excel para descarga | Especialidad: google | Usuario: IRENE.LOPEZ | Número: 3025612588
+[2024-10-27 21:45:42] Acción: Creación de Excel para descarga | Especialidad: google | Usuario: IRENE.LOPEZ | Número: 5432993465
+[2024-10-27 20:33:52] Acción: Creación de Excel para descarga | Especialidad: google | Usuario: BEATRIZ.EXPOSITO@CIVICA-SOFT.COM
+[2024-10-27 20:32:42] Acción: Creación de Excel para descarga | Especialidad: google | Usuario: MANUEL.REINA@CIVICA-SOFT.COM
